@@ -1,4 +1,4 @@
-const fs = require("fs");
+fs = require("fs");
 const {
    indonesia
 } = require("./language");
@@ -12,7 +12,8 @@ global.APIs = {
 // Free apikey (silahkan login terus ganti Your Key dgn apikey lu)
 global.APIKeys = {
    'https://api.zeeoneofc.my.id': 'qq7T9auZtWEOxL2', // 👉 login https://api.zeeoneofc.my.id to get apikey
-   'https://api.ibeng.tech' : 'ElUhm8NNLE'
+   'https://api.ibeng.tech' : 'ElUhm8NNLE',
+}
 // apigratis
 // WMrTmWlI9H9Oxc5
 // qq7T9auZtWEOxL2
